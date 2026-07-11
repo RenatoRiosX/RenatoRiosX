@@ -32,7 +32,3 @@ Beyond coding, I am the author of "El camino del logro" ("The Path to Achievemen
 | | `Bootstrap` | | `xUnit & Moq` |
 
 ---
-
-### 📈 My GitHub Stats
-
-" from the line below -->
