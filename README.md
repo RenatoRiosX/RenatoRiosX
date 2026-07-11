@@ -15,7 +15,6 @@ I'm a passionate Full Stack Developer with a strong focus on backend technologie
 
 Beyond coding, I am the author of "El camino del logro" ("The Path to Achievement"), a book on personal development. This experience has instilled in me a deep commitment to continuous improvement and discipline—principles I apply to solving complex software engineering challenges. My entrepreneurial background allows me to understand a product's lifecycle from multiple angles: business, technology, and user experience.
 
-- 🔭 I’m currently looking for job opportunities after finishing my final degree project, an educational gamification platform to boost student engagement.
 - 📫 How to reach me: **contacto@riosrenato.com**
 
 ---
